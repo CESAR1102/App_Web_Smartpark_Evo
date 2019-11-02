@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Service\\Smartpark.Service.csproj": {}
+    "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Service\\Smartpark.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj": {
+    "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj",
+        "projectUniqueName": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj",
         "projectName": "Smartpark.Domain",
-        "projectPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj",
-        "packagesPath": "C:\\Users\\Cesar Gutierrez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\obj\\",
+        "projectPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jose4\\.nuget\\packages\\",
+        "outputPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Cesar Gutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jose4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://packagesource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,20 +56,20 @@
         }
       }
     },
-    "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Repository\\Smartpark.Repository.csproj": {
+    "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Repository\\Smartpark.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Repository\\Smartpark.Repository.csproj",
+        "projectUniqueName": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Repository\\Smartpark.Repository.csproj",
         "projectName": "Smartpark.Repository",
-        "projectPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Repository\\Smartpark.Repository.csproj",
-        "packagesPath": "C:\\Users\\Cesar Gutierrez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Repository\\obj\\",
+        "projectPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Repository\\Smartpark.Repository.csproj",
+        "packagesPath": "C:\\Users\\Jose4\\.nuget\\packages\\",
+        "outputPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Cesar Gutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jose4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,14 +77,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://packagesource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj": {
-                "projectPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj"
+              "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj": {
+                "projectPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj"
               }
             }
           }
@@ -99,11 +97,19 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
             }
           },
           "imports": [
@@ -114,20 +120,20 @@
         }
       }
     },
-    "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Service\\Smartpark.Service.csproj": {
+    "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Service\\Smartpark.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Service\\Smartpark.Service.csproj",
+        "projectUniqueName": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Service\\Smartpark.Service.csproj",
         "projectName": "Smartpark.Service",
-        "projectPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Service\\Smartpark.Service.csproj",
-        "packagesPath": "C:\\Users\\Cesar Gutierrez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Service\\obj\\",
+        "projectPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Service\\Smartpark.Service.csproj",
+        "packagesPath": "C:\\Users\\Jose4\\.nuget\\packages\\",
+        "outputPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Cesar Gutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jose4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -135,17 +141,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://packagesource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj": {
-                "projectPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj"
+              "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj": {
+                "projectPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj"
               },
-              "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Repository\\Smartpark.Repository.csproj": {
-                "projectPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Repository\\Smartpark.Repository.csproj"
+              "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Repository\\Smartpark.Repository.csproj": {
+                "projectPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Repository\\Smartpark.Repository.csproj"
               }
             }
           }

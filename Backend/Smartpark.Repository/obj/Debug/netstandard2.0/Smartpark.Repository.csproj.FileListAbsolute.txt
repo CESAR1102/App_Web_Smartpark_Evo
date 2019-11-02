@@ -10,3 +10,15 @@ C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Repository\obj\Debug\netstandard2.0\Smartpark.Repository.csproj.CopyComplete
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Repository\obj\Debug\netstandard2.0\Smartpark.Repository.dll
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Repository\obj\Debug\netstandard2.0\Smartpark.Repository.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\bin\Debug\netstandard2.0\Smartpark.Repository.deps.json
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\bin\Debug\netstandard2.0\Smartpark.Repository.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\bin\Debug\netstandard2.0\Smartpark.Repository.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\bin\Debug\netstandard2.0\Smartpark.Domain.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\bin\Debug\netstandard2.0\Smartpark.Domain.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\obj\Debug\netstandard2.0\Smartpark.Repository.csprojAssemblyReference.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\obj\Debug\netstandard2.0\Smartpark.Repository.csproj.CoreCompileInputs.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\obj\Debug\netstandard2.0\Smartpark.Repository.AssemblyInfoInputs.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\obj\Debug\netstandard2.0\Smartpark.Repository.AssemblyInfo.cs
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\obj\Debug\netstandard2.0\Smartpark.Repository.csproj.CopyComplete
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\obj\Debug\netstandard2.0\Smartpark.Repository.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Repository\obj\Debug\netstandard2.0\Smartpark.Repository.pdb

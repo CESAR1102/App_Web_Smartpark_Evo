@@ -12,3 +12,17 @@ C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Service\obj\Debug\netstandard2.0\Smartpark.Service.csproj.CopyComplete
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Service\obj\Debug\netstandard2.0\Smartpark.Service.dll
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Service\obj\Debug\netstandard2.0\Smartpark.Service.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\bin\Debug\netstandard2.0\Smartpark.Service.deps.json
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\bin\Debug\netstandard2.0\Smartpark.Service.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\bin\Debug\netstandard2.0\Smartpark.Service.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\bin\Debug\netstandard2.0\Smartpark.Domain.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\bin\Debug\netstandard2.0\Smartpark.Repository.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\bin\Debug\netstandard2.0\Smartpark.Repository.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\bin\Debug\netstandard2.0\Smartpark.Domain.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\obj\Debug\netstandard2.0\Smartpark.Service.csprojAssemblyReference.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\obj\Debug\netstandard2.0\Smartpark.Service.csproj.CoreCompileInputs.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\obj\Debug\netstandard2.0\Smartpark.Service.AssemblyInfoInputs.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\obj\Debug\netstandard2.0\Smartpark.Service.AssemblyInfo.cs
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\obj\Debug\netstandard2.0\Smartpark.Service.csproj.CopyComplete
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\obj\Debug\netstandard2.0\Smartpark.Service.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Service\obj\Debug\netstandard2.0\Smartpark.Service.pdb

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj": {}
+    "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj": {
+    "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj",
+        "projectUniqueName": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj",
         "projectName": "Smartpark.Domain",
-        "projectPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj",
-        "packagesPath": "C:\\Users\\Cesar Gutierrez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesar Gutierrez\\Desktop\\EVO\\TRABAJO_EVO\\App_web_Estacionamiento\\Backend\\Smartpark.Domain\\obj\\",
+        "projectPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\Smartpark.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jose4\\.nuget\\packages\\",
+        "outputPath": "D:\\Enciclopedia\\Universidad\\Evolucion\\Backend\\App_Web_Smartpark_Evo\\Backend\\Smartpark.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Cesar Gutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jose4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://packagesource": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

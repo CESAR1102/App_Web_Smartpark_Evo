@@ -19,3 +19,24 @@ C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.csproj.CopyComplete
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.dll
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Api.deps.json
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Api.runtimeconfig.json
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Api.runtimeconfig.dev.json
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Api.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Api.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Domain.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Repository.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Service.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Domain.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Service.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\bin\Debug\netcoreapp2.2\Smartpark.Repository.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.csprojAssemblyReference.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.csproj.CoreCompileInputs.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.RazorAssemblyInfo.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.RazorAssemblyInfo.cs
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.AssemblyInfoInputs.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.AssemblyInfo.cs
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.RazorTargetAssemblyInfo.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.csproj.CopyComplete
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Api\obj\Debug\netcoreapp2.2\Smartpark.Api.pdb

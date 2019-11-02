@@ -18,8 +18,9 @@ namespace Smartpark.Repository.Context
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
-            
+           
         }
+        
 
     
     }

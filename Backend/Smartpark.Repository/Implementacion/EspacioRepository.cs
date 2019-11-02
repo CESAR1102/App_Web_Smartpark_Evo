@@ -17,7 +17,7 @@ namespace Smartpark.Repository.Implementacion
         {
             try
             {
-                var result = context.Espacios.Single(x => x.Nro_espacio == id);
+                var result = context.Espacios.Single(x => x.Id == id);
                 context.Remove(result);
                 context.SaveChanges();
             }
@@ -34,7 +34,7 @@ namespace Smartpark.Repository.Implementacion
             var result = new Espacio();
             try
             {
-                result = context.Espacios.Single(x => x.Nro_espacio == id);
+                result = context.Espacios.Single(x => x.Id == id);
             }
             catch (System.Exception)
             {
@@ -80,10 +80,10 @@ namespace Smartpark.Repository.Implementacion
             try
             {
                  var espacio = context.Espacios.Single(
-                     x => x.Nro_espacio == entity.Nro_espacio
+                     x => x.Id == entity.Id
                  );
 
-                espacio.Nro_espacio = entity.Nro_espacio;
+                espacio.Id = entity.Id;
                 espacio.id_parking = entity.id_parking;
                 espacio.Identificador = entity.Identificador;
                 espacio.Disponibilidad_espacio=entity.Disponibilidad_espacio;

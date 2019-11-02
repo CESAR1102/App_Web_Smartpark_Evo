@@ -7,3 +7,12 @@ C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.AssemblyInfo.cs
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.dll
 C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Domain\bin\Debug\netstandard2.0\Smartpark.Domain.deps.json
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Domain\bin\Debug\netstandard2.0\Smartpark.Domain.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Domain\bin\Debug\netstandard2.0\Smartpark.Domain.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.csproj.CoreCompileInputs.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.AssemblyInfoInputs.cache
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.AssemblyInfo.cs
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.dll
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.pdb
+D:\Enciclopedia\Universidad\Evolucion\Backend\App_Web_Smartpark_Evo\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.csprojAssemblyReference.cache
