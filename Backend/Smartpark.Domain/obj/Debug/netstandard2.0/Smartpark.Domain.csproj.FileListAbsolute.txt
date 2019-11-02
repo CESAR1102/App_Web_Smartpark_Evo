@@ -1,0 +1,9 @@
+C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\bin\Debug\netstandard2.0\Smartpark.Domain.deps.json
+C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\bin\Debug\netstandard2.0\Smartpark.Domain.dll
+C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\bin\Debug\netstandard2.0\Smartpark.Domain.pdb
+C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.csprojAssemblyReference.cache
+C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.AssemblyInfoInputs.cache
+C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.AssemblyInfo.cs
+C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.dll
+C:\Users\Cesar Gutierrez\Desktop\EVO\TRABAJO_EVO\App_web_Estacionamiento\Backend\Smartpark.Domain\obj\Debug\netstandard2.0\Smartpark.Domain.pdb
